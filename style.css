@@ -1,0 +1,78 @@
+header{
+  background-color: #ffff;
+}
+.logo{}
+.logo a{
+  font-size: 26px;
+text-decoration: none;
+color: black;
+line-height: 84px;
+}
+span{
+  font-size: 20px;
+border: 1px solid #fb5d02;
+padding: 6px;
+border-radius: 11px;
+color: #fb5d02;
+}
+.menu{}
+.menu ul{
+  text-align: right;
+}
+.menu ul li{
+  display: inline-block;
+}
+.menu ul li a{
+  display: inline-block;
+font-size: 20px;
+text-decoration: none;
+padding: 0px 10px;
+color: black;
+line-height: 85px;
+}
+.menu ul li a:hover{}
+.btn{
+  margin-top: 10px;
+}
+.btn button{}
+
+.banner{
+  background: url(./img/ia_200000012.jpg\ -\ Shortcut.lnk);
+  padding: 250px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.about-section{
+  /* background-color: #f7f9ff; */
+
+}
+
+.about-cont h1{
+  font-size: 35px;
+}
+.about-cont p{
+  font-size: 18px;
+line-height: 32px;
+margin-top: 25px;
+}
+
+/* .im{
+  height: 200px;
+} */
+
+.course-complete{
+  background-color: #f7f9ff;
+  margin-top: 50px;
+  padding: 15px 0;
+}
+.course-complete h1{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.teacher{
+  margin-top: 10px;
+  margin-left: 10px;
+}
